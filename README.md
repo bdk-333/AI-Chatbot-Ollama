@@ -15,7 +15,7 @@ A simple but powerful Streamlit chatbot interface for running local LLMs with Ol
 
 Before you begin, ensure you have the following installed:
 * [Python 3.8+](https://www.python.org/downloads/) - I used python 3.11.2
-* [Ollama](https://ollama.com/) and at least one model pulled (e.g., `ollama run llama3`). I have used `llama3:latest` and `qwen3:4b-q4_K_M`
+* [Ollama](https://ollama.com/) and at least one model pulled (e.g., `ollama run llama3`). I have used `[llama3:latest](https://ollama.com/library/llama3.2:latest)` and `[qwen3:4b-q4_K_M](https://ollama.com/library/qwen3:4b)`
 
 ## 🚀 Installation & Setup
 
