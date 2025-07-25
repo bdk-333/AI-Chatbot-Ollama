@@ -2,8 +2,6 @@
 
 A simple but powerful Streamlit chatbot interface for running local LLMs with Ollama.
 
-![Demo GIF of the chatbot in action] (You can record a short GIF of your screen to show it off!)
-
 ## ✨ Features
 
 * **Real-time Streaming:** See the model's response as it's being generated.
