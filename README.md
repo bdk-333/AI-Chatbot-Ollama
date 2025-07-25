@@ -43,5 +43,5 @@ Before you begin, ensure you have the following installed:
 
 5.  **Run the Streamlit app:**
     ```bash
-    streamlit run app.py
+    streamlit run chatbot.py
     ```
